@@ -66,7 +66,7 @@ Establishing HTTPS tunnel...
 
 ----Client Output
 ![alt text](image-2.png)
-Running client_demo.py should print the response received from the target server, such as the HTML content for http://example.com.
+Running client_demo.py should print the response received from the target server.
 
 # Configuration
 You can adjust the following parameters in proxy_server.py:
