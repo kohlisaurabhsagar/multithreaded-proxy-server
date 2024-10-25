@@ -84,7 +84,7 @@ Caching: This proxy does not cache responses.
 =>Access Control: Adding IP whitelisting/blacklisting to control access to the proxy server.
     
 # Conceptual Overview
-    
+
     ┌───────────────────────┐                      ┌───────────────────────┐
     │        Client         │                      │    Target Server      │
     │    (Browser, etc.)    │                      │ (example.com, etc.)   │
@@ -130,4 +130,5 @@ Caching: This proxy does not cache responses.
               │
 5. Forward Response
    Back to Client ◄──────────────────────────────────────────┘
+
 
